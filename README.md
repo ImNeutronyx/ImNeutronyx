@@ -7,7 +7,7 @@
 <img src="https://github.com/ImNeutronyx/ImNeutronyx/blob/main/f14%20on%20deck.jpg" alt="f14 on deck.png">
 
 - 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{}/{USERNAME}/issues)**
+- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{ImNeutronyx}/{ImNeutronyx}/issues)**
 
 <br>
 
