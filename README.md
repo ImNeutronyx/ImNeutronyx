@@ -16,10 +16,10 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.codedex.io/@ImNeutronyx" target="_blank">
-    <img src="https://img.shields.io/badge/Codedex-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Codedex-0077B5?style=for-the-badge&logo=codedex&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.instagram.com/astroman.a/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" />
   </a>
 </div>
 
