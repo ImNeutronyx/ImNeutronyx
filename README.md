@@ -30,7 +30,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,nextjs,mongodb,postgres,prisma,python,C++(learning)" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,postman,figma" />
 </p>
 
 <hr>
